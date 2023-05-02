@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckydropship
-- 👀 I’m interested in React, vue and golang
-- 🌱 I’m currently learning more about miroservices
-- 💞️ I’m looking to collaborate on  web application dev project
+- 👀 I’m interested in React, Node, Postgres and GraphQL 
+- 🌱 I’m currently learning more about smart contracts and solidity.
+- 💞️ I’m looking to collaborate on interesting web application dev projects
 - 📫 luckydropship@gmail.com
 
 <!---
