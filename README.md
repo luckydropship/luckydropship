@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckydropship
 - 👀 I’m interested in React, Node, Postgres and GraphQL 
-- 🌱 I’m currently learning more about smart contracts and solidity.
+- 🌱 I’m currently learning about natural language processing
 - 💞️ I’m looking to collaborate on interesting web application dev projects
 - 📫 luckydropship@gmail.com
 
