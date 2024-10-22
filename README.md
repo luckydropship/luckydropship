@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luckydropship
-- 👀 I’m interested in React, Node, Postgres and GraphQL 
-- 🌱 I’m currently learning about natural language processing
-- 💞️ I’m looking to collaborate on interesting web application dev projects
+- 👀 I’m interested in Python, Golang and Vue
+- 🌱 I’m currently learning about networking and security
+- 💞️ I’m looking to build fun stuff and contribute to open source
 - 📫 luckydropship@gmail.com
 
 <!---
