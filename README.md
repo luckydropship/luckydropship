@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @luckydropship
+# 👋 Hi, I'm Lucky
 
-- 📫 luckydropship@gmail.com
+Software Engineer focused on **AI engineering, backend systems, and cloud infrastructure**.
 
-<!---
-luckydropship/luckydropship is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I enjoy building intelligent systems, developer tools, and scalable platforms using modern cloud and AI technologies.
+
+## 🌐 Connect with me
+
+* 🌍 Portfolio: https://luckymm.cloud
+* 💼 LinkedIn: https://www.linkedin.com/in/lucky-mm-5a75b5176/
+* 📫 Email: [luckydropship@gmail.com](mailto:luckydropship@gmail.com)
+
+## 🚀 Areas of Interest
+
+* AI & LLM Engineering
+* Platform Engineering
+* Cloud Infrastructure
+* Kubernetes & Distributed Systems
+* Developer Tooling
+
+## 🛠 Technologies I Work With
+
+Go • Python • Docker • Kubernetes • PostgreSQL • Cloud Platforms • AI/LLM tooling
+
+---
+
+⭐ Always learning and building. Open to collaborating on interesting projects.
