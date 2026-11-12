@@ -1,26 +1,34 @@
-# 👋 Hi, I'm Lucky
+# Lucky Mubeti
 
-Software Engineer focused on **AI engineering, backend systems, and cloud infrastructure**.
+Senior AI engineer building production LLM agent systems, now focused on
+how those systems are attacked and secured.
 
-I enjoy building intelligent systems, developer tools, and scalable platforms using modern cloud and AI technologies.
+I build agent platforms for regulated industries, most recently a
+regulatory intelligence platform for UK financial services and, before
+that, healthcare integrations. My current work is on agent security:
+prompt injection, tool and permission design, sandboxing, and controlling
+what an agent can reach.
 
-## 🌐 Connect with me
+## Currently
 
-* 🌍 Portfolio: https://luckymm.cloud
-* 💼 LinkedIn: https://www.linkedin.com/in/lucky-mm-5a75b5176/
-* 📫 Email: [luckydropship@gmail.com](mailto:luckydropship@gmail.com)
+- Building and operating LLM agent systems in production (LangGraph,
+  FastAPI, Celery, PostgreSQL, GKE)
+- Contributing to open source infrastructure and security tooling
+- Studying for CompTIA SecAI+
 
-## 🚀 Areas of Interest
+## Writing
 
-* AI & LLM Engineering
-* Platform Engineering
-* Cloud Infrastructure
-* Kubernetes & Distributed Systems
-* Developer Tooling
+Weekly notes on what I am fixing and learning: https://luckym.cloud
 
-## 🛠 Technologies I Work With
+## Stack
 
-Go • Python • Docker • Kubernetes • PostgreSQL • Cloud Platforms • AI/LLM tooling
+Python, Go, LangGraph, FastAPI, PostgreSQL, Redis, Docker, Terraform, GCP
+
+## Contact
+
+- Site: https://luckym.cloud
+- LinkedIn: https://www.linkedin.com/in/lucky-mm-5a75b5176/
+- Email: luckydropship@gmail.com
 
 ---
 
