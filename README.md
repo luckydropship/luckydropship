@@ -1,6 +1,6 @@
-# Lucky Mubeti
+# 👋 Hi, I'm Lucky
 
-Senior AI engineer building production LLM agent systems, now focused on
+AI engineer building production LLM agent systems, now focused on
 how those systems are attacked and secured.
 
 I build agent platforms for regulated industries, most recently a
@@ -32,4 +32,4 @@ Python, Go, LangGraph, FastAPI, PostgreSQL, Redis, Docker, Terraform, GCP
 
 ---
 
-⭐ Always learning and building. Open to collaborating on interesting projects.
+⭐ Open to collaborating on interesting projects.
