@@ -18,7 +18,7 @@ what an agent can reach.
 
 ## Writing
 
-Weekly notes on what I am fixing and learning: https://luckym.cloud
+Weekly notes on what I am fixing and learning: https://luckymm.cloud
 
 ## Stack
 
@@ -26,7 +26,7 @@ Python, Go, LangGraph, FastAPI, PostgreSQL, Redis, Docker, Terraform, GCP
 
 ## Contact
 
-- Site: https://luckym.cloud
+- Site: https://luckymm.cloud
 - LinkedIn: https://www.linkedin.com/in/lucky-mm-5a75b5176/
 - Email: luckydropship@gmail.com
 
